@@ -25,7 +25,7 @@ and an admin panel for managing products and orders.
 ## Why Use This Application?
  This E-commerce application is more than just a shopping site—it's designed with both the customer and the admin in mind:
 - **For Customers:** Enjoy an easy-to-navigate, secure, and fast platform for online shopping. Our responsive design ensures a great shopping experience on any device. You can browse through a vast range of products, add them to your cart, and make payments—all in just a few clicks.
-- **For Admins:** The built-in admin panel allows you to manage products and orders efficiently, track sales, and make updates in real-time. You can manage your store from anywhere, ensuring that your business runs smoothly.
+- **For Admins:** The built-in admin panel allows you to manage products and orders efficiently, track sales, and make updates in real-time. You can manage your store from anywhere, ensuring that your business runs smoothly...
 
 ## Project Images
 ![img3](https://github.com/user-attachments/assets/80fdefef-9219-45d6-a6ea-21278f9fe30d)
